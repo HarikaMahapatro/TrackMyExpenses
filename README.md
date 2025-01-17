@@ -25,17 +25,5 @@ The Expense Tracker application consists of several key sections:
 - **JavaScript**: The programming language used for logic.
 - **HTML & CSS**: For structuring and styling the web pages.
 
-## Getting Started
 
-To get started with the React Expense Tracker, follow these steps:
 
-### Prerequisites
-
-Make sure you have Node.js and npm (Node Package Manager) installed on your machine. You can download Node.js and npm from [here](https://nodejs.org/).
-
-### Installation
-
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/your-username/react-expense-tracker.git
-2. then run npm start
